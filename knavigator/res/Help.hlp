@@ -1,0 +1,58 @@
+&Bara de meniu
+
+ 1) - se activeaza apasand tasta "F10";
+ 2) - se navigheaza cu ajutorul sagetilor "<-" si "->";
+ 3) - se alege submeniul dorit apasand tasta "Enter"; 
+ 4) - se navigheaza cu ajutorul tastelor "sageata in sus" si 
+      "sageata in jos";
+ 5) - se alege optiunea dorita apasand tasta "Enter";
+ Obs: se poate dezactiva oricand apasand tasta "Esc". 
+ 
+&Ferestrele de lucru
+
+ - sunt doua (stanga si dreapta);
+ - se poate trece dintr-o fereastra in alta apasand 
+   tasta "Tab";
+ - in partea stanga sus a ferestrei active este afisat 
+   directorul curent;
+ - in partea de mijloc a ferestrei este afisat continutul 
+   directorului curent;
+ - in partea de jos a ferestrei sunt afisate urmatoarele informatii:
+          * numele directorului/fisierului indicat de cursor;
+          * dimensiunea fisierului/tipul directorui, data si timpul 
+            ultimei modificari facute asupra directorului/fisierului 
+            indicat de cursor;
+          * numarul fisierelor si directoarelor selectate precum si 
+            dimensiunea totala a 
+            fisierelor;
+          * spatiul liber de pe drive-ul curent;
+ - in partea stanga jos a ferestrei sunt afisate drive-urile existente, 
+   iar drive-ul curent este 
+   afisat cu culoarea galbena;
+ - in cadrul ferestrei se poate naviga cu ajutorul cursorului, care se 
+   poate actiona de la sageti;
+ - selectia unui singur fisier/director se realizeaza cu ajutorul 
+   tastei "Space";
+ - executarea unui fisier "exe", "com" sau "dat" se realizeaza cu 
+   ajutorul tastei "Enter";
+ - vizualizarea/editarea unui fisier se realizeaza apasand tasta "Enter".
+
+&Taste rapide
+
+ * F1 - schimbarea drive-ului curent din fereastra stanga;
+ * F2 - schimbarea drive-ului curent din fereastra dreapta;
+ * F4 - vizualizarea/editarea fisierului curent indicat de cursor;
+ * F5 - copiere;
+ * F6 - mutare;
+ * F7 - creare director;
+ * F8 - stergere;
+ * F9 - activarea ferestrei pentru alegerea atributelor fisierelor care 
+        sa fie afisate;
+ * F10 - activarea barii de meniu;
+ * Tab - schimbarea ferestrei curente;
+ * Enter - executarea unor fisiere executabibe/schimbarea directorului 
+           curent;
+ * Esc - iesire din program;
+ * * - selecteaza/deselecteaza toate fisierele deselectate/selectate;
+ * - - activeaza fereastra pentru deselectarea unui grup;
+ * + - activeaza fereastra pentru selectarea unui grup.       
