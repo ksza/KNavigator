@@ -9,7 +9,7 @@ RUN mkdir /dos/drive_c/knavi
 RUN echo 'path %PATH%;Y:\DOS;Y:\SCRIPTS;C:\TP7/BIN' >> /dos/dosbox.conf
 RUN echo 'C:' >> /dos/dosbox.conf
 RUN echo 'cd KNAVI' >> /dos/dosbox.conf
-RUN echo 'turbo.exe K-Navi~1.pas' >> /dos/dosbox.conf
+RUN echo 'turbo.exe KNavi.pas' >> /dos/dosbox.conf
 
 EXPOSE 5901
 
