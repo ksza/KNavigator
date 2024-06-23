@@ -36,6 +36,10 @@ Connect to VNC server
 - Host `localhost:5901`
 - Password `knavi`
 
+To build and run knavigator, in TP7 hit `Ctrl + F9`
+
+![Running the project](how_to_run.png)
+
 To stop the development environment, run `make down`.
 
 ### FAQ
