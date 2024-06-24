@@ -1,5 +1,10 @@
 # KNavigator
 
+## Demo
+
+The project is live in the Internet Archive DosBox emulator
+[https://archive.org/details/KNavi](https://archive.org/details/KNavi)
+
 ## About
 
 Written as my Highschool Thesis project in 2003, KNavigator is a replica written in TurboPascal 7 of the popular DosNavigator project.
